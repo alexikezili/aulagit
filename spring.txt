@@ -1,1 +1,1 @@
-Spring é um framework JAVA.
+Spring é um framework.
